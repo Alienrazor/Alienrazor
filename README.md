@@ -21,7 +21,7 @@
 <a href="https://alienrazor.github.io/Alienrazor.io/">
 <img src='Alienrazor/198284725-31b1b381-bf29-42b0-a468-c4e8b8eaa64c.gif' >
 </p>
-<h1 align=center>🍯❤ PROGRAMMING STYLES HONEY KING ❤🍯</h1>
+<h1 align=center>🐝 PROGRAMMING STYLES HONEY KING 🐝</h1>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Alienrazor"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Alienrazor&theme=monokai"></a>
