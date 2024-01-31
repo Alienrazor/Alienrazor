@@ -1,6 +1,5 @@
 
-<p align="center"><a href="https://alienrazor.github.io/Alienrazor.io/"><img src="https://readme-typing-svg.demolab.com?font=Neuton&size=25&pause=1000&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hi+I'm+Alienrazor......;I+Do+Open+Source.......;" alt="Typing SVG" /></a>
-
+<p align="center"><a href="https://alienrazor.github.io/Alienrazor.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=D4A230&center=true&vCenter=true&random=false&width=435&lines=%3C!+The+One+And+Only+Honey+King+%3E+"alt="Typing SVG" /></a>
 
 
 <p align="center">
