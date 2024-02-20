@@ -10,7 +10,7 @@
 <a href="https://alienrazor.github.io/Alienrazor.io/">
 <img src='https://raw.githubusercontent.com/Alienrazor/SS/main/1678508364354.gif' style="height:600px;width:700px;" >
 
- <p>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT'S+A+BRAND+DARK+NESS+)](https://git.io/typing-svg) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdarkness404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="iamdarkness404" />
  </p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdarkness404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="iamdarkness404" /> </p>
