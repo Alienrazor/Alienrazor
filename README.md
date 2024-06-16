@@ -55,4 +55,4 @@
 
 
 
-<img src='https://raw.githubusercontent.com/Alienrazor/Alienrazor/main/Newsetu.jpg' style="height:700px;width:500px;" >
+<img src='https://raw.githubusercontent.com/Alienrazor/Alienrazor/main/Newsetu.jpg' style="height:700px;width:400px;" >
