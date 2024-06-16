@@ -55,4 +55,4 @@
 
 
 
-<img src='https://raw.githubusercontent.com/Alienrazor/Alienrazor/main/Nw.jpg' style="height:800px;width:400px;" >
+<img src='https://raw.githubusercontent.com/Alienrazor/Alienrazor/main/Nw.jpg' style="height:700px;width:500px;" >
